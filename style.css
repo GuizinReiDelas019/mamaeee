@@ -1,0 +1,30 @@
+body {
+    background: (hotpink);
+    color:black;
+    margin: 20px;
+    font-family: "Sevillana", sans-serif;
+}
+
+header {
+    border-bottom: solid 2px ,b(0, 0, 0);
+    font-size: 32px;
+}
+
+section {background: hwb(263 5% 5%) ;
+}
+
+element.style {
+    background: (hotpink);
+}
+
+.chamada-texto {
+    margin-right: 10%;
+}
+
+h1 {
+    font-size: large;
+}
+
+p {
+    font-size: medium;
+}
